@@ -10,6 +10,7 @@
 
 </div>
 
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -20,7 +21,11 @@
   <p align="center">
     Visualization tool for environmental data
     <br />
+     <br />
+<img width='700' height='auto' src='https://i.imgur.com/yZJzD3G.gif' alt='App Demo'>
 </div>
+
+
 
 ## Tech Stack
 
